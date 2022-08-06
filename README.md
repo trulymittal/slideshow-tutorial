@@ -17,7 +17,9 @@ You may also see any lint errors in the console.
 ## Learn More
 
 [Unsplash](https://unsplash.com/)
+
 [Framer Motion](https://www.framer.com/motion/)
+
 [Framer motion on npm](https://www.npmjs.com/package/framer-motion)
 
 ## Author
